@@ -1,0 +1,9 @@
+* c695f56 (HEAD -> main, origin/main) Revert "Refactor: Reorder operator keys"
+* 82cc3ae Build: Add .gitignore to ignore log files
+*   53c447b :wqMerge branch 'feature-sqrt'
+|\  
+| * fd4237a Refactor: Reorder operator keys
+| * b2df23c Feature: Add square root functionality
+* | eb060cf Refactor: Reorder operator keys
+|/  
+* 9310872 Initial commit: Add base calculator project files
